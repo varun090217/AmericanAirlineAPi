@@ -126,7 +126,7 @@ output application/json
 		<flow-ref doc:name="deleteFlightById" doc:id="26de530b-6b3e-453e-89f1-fe0763fea7af" name="deleteFlightById"/>
     </flow>
     <flow name="get:\flights:american-airlines-info-api-config">
-		<flow-ref doc:name="getAllFlights" doc:id="9170ba55-fefb-4dd7-8bc5-76be41f4fc43" name="getAllFlights"/>
+		<flow-ref doc:name="getAllFlllights" doc:id="9170ba55-fefb-4dd7-8bc5-76be41f4fc43" name="getAllFlights"/>
     </flow>
     <flow name="get:\flights\(ID):american-airlines-info-api-config">
 		<flow-ref doc:name="getFlightById" doc:id="417ab227-bec2-423c-a1f2-a48cd546da18" name="getFlightById"/>
@@ -135,3 +135,4 @@ output application/json
 		<flow-ref doc:name="postFlights" doc:id="af6136e0-a88f-4f58-bc3c-634f5cabe97e" name="postFlights"/>
     </flow>
 </mule>
+
