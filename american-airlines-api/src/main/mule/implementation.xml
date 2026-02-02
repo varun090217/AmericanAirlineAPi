@@ -67,7 +67,7 @@ payload map ( payload01 , indexOfPayload01 ) -> {
 output application/json
 ---
 {
-	"message" : "Flights added successfully (but not really"
+	"message" : "Flights added successfully (but not really)"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
@@ -80,7 +80,7 @@ output application/json
 output application/json
 ---
 {
-	"message" : "Flight deleted by ID (but not really"
+	"message" : "Flight deleted by ID (but not really)"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
